@@ -14,9 +14,13 @@ User guide
 	
 -> Please, before continuing, download node.js:
 				
--> Then, still on your terminal, you have to do:
+-> Then, still on your terminal, you have to do two times:
 
-cd WebProject
+cd WebProject-main
+
+-> Then
+
+npm install vite --save-dev
 
 -> Finally you can launch the web application by still typing on your terminal:
 
